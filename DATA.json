@@ -2,6 +2,7 @@
   "makanan": [
     {
       "nama": "Bayam",
+      "image": "https://github.com/nabati17/capstone_Img/blob/main/img/Bayam.jpg?raw=true",
       "gizi": {
         "kalori": 23,
         "karbohidrat": 3.6,
@@ -14,6 +15,7 @@
     },
     {
       "nama": "Alpukat",
+      "image": "https://github.com/nabati17/capstone_Img/blob/main/img/alpukat.jpg?raw=true",
       "gizi": {
         "kalori": 160,
         "karbohidrat": 9,
@@ -26,6 +28,7 @@
     },
     {
       "nama": "Telur",
+      "image": "https://github.com/nabati17/capstone_Img/blob/main/img/telur.jpg?raw=true",
       "gizi": {
         "kalori": 78,
         "karbohidrat": 0.6,
@@ -38,6 +41,7 @@
     },
     {
       "nama": "Salmon",
+      "image": "https://github.com/nabati17/capstone_Img/blob/main/img/salmon.jpg?raw=true",
       "gizi": {
         "kalori": 206,
         "karbohidrat": 0,
@@ -50,6 +54,7 @@
     },
     {
       "nama": "Jeruk",
+      "image": "https://github.com/nabati17/capstone_Img/blob/main/img/jeruk.jpg?raw=true",
       "gizi": {
         "kalori": 43,
         "karbohidrat": 11,
@@ -62,6 +67,7 @@
     },
     {
       "nama": "Pisang",
+      "image": "https://github.com/nabati17/capstone_Img/blob/main/img/pisang.jpg?raw=true",
       "gizi": {
         "kalori": 96,
         "karbohidrat": 25,
@@ -74,6 +80,7 @@
     },
     {
       "nama": "Yogurt",
+      "image": "https://github.com/nabati17/capstone_Img/blob/main/img/Yogurt.jpg?raw=true",
       "gizi": {
         "kalori": 149,
         "karbohidrat": 8.5,
@@ -86,6 +93,7 @@
     },
     {
       "nama": "Brokoli",
+      "image": "https://github.com/nabati17/capstone_Img/blob/main/img/broccoli.jpg?raw=true",
       "gizi": {
         "kalori": 55,
         "karbohidrat": 11.2,
@@ -98,6 +106,7 @@
     },
     {
       "nama": "Kacang almond",
+      "image": "https://github.com/nabati17/capstone_Img/blob/main/img/Kacang-Almon.jpg?raw=true",
       "gizi": {
         "kalori": 164,
         "karbohidrat": 6,
@@ -110,6 +119,7 @@
     },
     {
       "nama": "Jagung",
+      "image": "https://github.com/nabati17/capstone_Img/blob/main/img/jagung.jpg?raw=true",
       "gizi": {
         "kalori": 86,
         "karbohidrat": 19,
@@ -123,6 +133,7 @@
 
     {
       "nama": "Quinoa",
+      "image": "https://github.com/nabati17/capstone_Img/blob/main/img/Quinoa.jpg?raw=true",
       "gizi": {
         "kalori": 120,
         "karbohidrat": 21.3,
@@ -135,6 +146,7 @@
     },
     {
       "nama": "Tahu",
+      "image": "https://github.com/nabati17/capstone_Img/blob/main/img/tahu.jpg?raw=true",
       "gizi": {
         "kalori": 144,
         "karbohidrat": 2.4,
@@ -147,6 +159,7 @@
     },
     {
       "nama": "Labu",
+      "image": "https://github.com/nabati17/capstone_Img/blob/main/img/labu.jpg?raw=true",
       "gizi": {
         "kalori": 26,
         "karbohidrat": 6.5,
@@ -159,6 +172,7 @@
     },
     {
       "nama": "Kedelai",
+      "image": "https://github.com/nabati17/capstone_Img/blob/main/img/kedelai.jpg?raw=true",
       "gizi": {
         "kalori": 446,
         "karbohidrat": 30.2,
@@ -175,6 +189,7 @@
 
     {
       "nama": "Kentang",
+      "image": "https://github.com/nabati17/capstone_Img/blob/main/img/kentang.jpg?raw=true",
       "gizi": {
         "kalori": 86,
         "karbohidrat": 20.1,
@@ -191,6 +206,7 @@
     },
     {
       "nama": "Ikan teri",
+      "image": "https://github.com/nabati17/capstone_Img/blob/main/img/ikan%20teri.jpg?raw=true",
       "gizi": {
         "kalori": 206,
         "karbohidrat": 0,
@@ -203,6 +219,7 @@
     },
     {
       "nama": "Keju",
+      "image": "https://github.com/nabati17/capstone_Img/blob/main/img/keju.jpg?raw=true",
       "gizi": {
         "kalori": 98,
         "karbohidrat": 3.4,
@@ -215,6 +232,7 @@
     },
     {
       "nama": "Wortel",
+      "image": "https://github.com/nabati17/capstone_Img/blob/main/img/wortel.jpg?raw=true",
       "gizi": {
         "kalori": 41,
         "karbohidrat": 9.6,
@@ -227,6 +245,7 @@
     },
     {
       "nama": "Buncis",
+      "image": "https://github.com/nabati17/capstone_Img/blob/main/img/buncis.jpg?raw=true",
       "gizi": {
         "kalori": 31,
         "karbohidrat": 7.1,
@@ -239,6 +258,7 @@
     },
     {
       "nama": "Buah plum",
+      "image": "https://github.com/nabati17/capstone_Img/blob/main/img/buah_plum.jpg?raw=true",
       "gizi": {
         "kalori": 46,
         "karbohidrat": 11.4,
