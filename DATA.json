@@ -77,7 +77,7 @@
           "serat": 0,
           "vitamin": ["A", "B1", "B2", "B6", "B12", "C", "D"]
         },
-        "manfaat": "Mengkonsumsi yogurt bagi ibu hamil di trimester 1 dapat memberikan nutrisi penting seperti kalsium, protein, dan probiotik yang mendukung perkembangan janin dan kesehatan pencernaan ibu"
+        "manfaat": "Mengkonsumsi yogurt bagi ibu hamil di trimester pertama dapat memberikan nutrisi penting seperti kalsium, protein, dan probiotik yang mendukung perkembangan janin dan kesehatan pencernaan ibu"
       }
     ]
   },
@@ -94,7 +94,7 @@
           "serat": 0,
           "vitamin": ["A", "C", "B6", "B12"]
         },
-        "manfaat": "Mengkonsumsi salmon dapat memberikan nutrisi penting seperti asam lemak omega-3 dan protein yang mendukung perkembangan otak dan sistem saraf janin selama trimester kedua kehamilan"
+        "manfaat": "Mengkonsumsi salmon bagi ibu hamil di trimester kedua dapat memberikan nutrisi penting seperti asam lemak omega-3 dan protein yang mendukung perkembangan otak dan sistem saraf janin."
       },
       {
         "nama": "Brokoli",
@@ -120,7 +120,7 @@
           "serat": 3.5,
           "vitamin": ["E", "B2"]
         },
-        "manfaat": "Mengkonsumsi kacang almond bagi ibu hamil di trimester kedua memberikan banyak manfaat karena kacang almond kaya akan vitamin E, asam lemak sehat, protein, dan serat yang baik untuk pertumbuhan janin, kesehatan otak, dan keseimbangan gula darah."
+        "manfaat": "Mengkonsumsi kacang almond selama trimester kedua kehamilan dapat memberikan nutrisi yang kaya akan vitamin E, asam lemak sehat, protein, dan serat yang baik untuk pertumbuhan janin, kesehatan otak, dan keseimbangan gula darah."
       },
       {
         "nama": "Jagung",
@@ -188,10 +188,7 @@
           "protein": 36.5,
           "lemak": 19.9,
           "serat": 9.3,
-          "vitamin": {
-            "E": 8.6,
-            "K": 47
-          }
+          "vitamin": ["E", "K"]
         },
         "manfaat": "Mengkonsumsi kedelai bagi ibu hamil di trimester ketiga dapat memberikan nutrisi penting seperti sumber protein nabati, serat, zat besi, dan kalsium yang baik untuk pertumbuhan janin dan kesehatan tulang ibu hamil."
       },
