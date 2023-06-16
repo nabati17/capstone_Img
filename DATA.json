@@ -1,286 +1,315 @@
 {
-  "trimester_1": {
-    "makanan": [
-      {
-        "nama": "Bayam",
-        "image": "https://github.com/nabati17/capstone_Img/blob/main/img/Bayam.jpg?raw=true",
-        "gizi": {
-          "kalori": 23,
-          "karbohidrat": 3.6,
-          "protein": 2.9,
-          "lemak": 0.4,
-          "serat": 2.2,
-          "vitamin": ["A", "B", "C", "E"]
-        },
-        "manfaat": "Mengkonsumsi bayam bagi ibu hamil di trimester pertama memiliki manfaat meningkatkan asupan zat besi, asam folat, serat, dan antioksidan yang penting untuk kesehatan ibu dan perkembangan janin"
+  "makanan": {
+    "LYDSh_aKVGBRJA2R": {
+      "id": "LYDSh_aKVGBRJA2R",
+      "nama": "Bayam",
+      "image": "https://raw.githubusercontent.com/nabati17/capstone_Img/main/img/Bayam.jpg",
+      "gizi": {
+        "kalori": 23,
+        "karbohidrat": 3.6,
+        "protein": 2.9,
+        "lemak": 0.4,
+        "serat": 2.2,
+        "vitamin": ["A", "B", "C", "E"]
       },
-      {
-        "nama": "Alpukat",
-        "image": "https://github.com/nabati17/capstone_Img/blob/main/img/alpukat.jpg?raw=true",
-        "gizi": {
-          "kalori": 160,
-          "karbohidrat": 9,
-          "protein": 2,
-          "lemak": 15,
-          "serat": 7,
-          "vitamin": ["B", "B6", "C", "K"]
-        },
-        "manfaat": "Mengkonsumsi alpukat bagi ibu hamil di trimester pertama memiliki manfaat memberikan asupan lemak sehat, vitamin K, folat, dan serat yang penting untuk kesehatan ibu dan perkembangan janin"
+      "manfaat": "Mengkonsumsi bayam bagi ibu hamil di trimester pertama memiliki manfaat meningkatkan asupan zat besi, asam folat, serat, dan antioksidan yang penting untuk kesehatan ibu dan perkembangan janin",
+      "trimester": 1
+    },
+    "YHcKFQ8hGIh_7dG4": {
+      "id": "YHcKFQ8hGIh_7dG4",
+      "nama": "Alpukat",
+      "image": "https://raw.githubusercontent.com/nabati17/capstone_Img/main/img/Alpukat.jpg",
+      "gizi": {
+        "kalori": 160,
+        "karbohidrat": 9,
+        "protein": 2,
+        "lemak": 15,
+        "serat": 7,
+        "vitamin": ["B", "B6", "C", "K"]
       },
-      {
-        "nama": "Telur",
-        "image": "https://github.com/nabati17/capstone_Img/blob/main/img/telur.jpg?raw=true",
-        "gizi": {
-          "kalori": 78,
-          "karbohidrat": 0.6,
-          "protein": 6.3,
-          "lemak": 5.3,
-          "serat": 0,
-          "vitamin": ["A", "B2", "B5", "B12", "D", "E", "K"]
-        },
-        "manfaat": "Mengkonsumsi telur bagi ibu hamil di trimester pertama memiliki manfaat memberikan Sumber protein tinggi, kolin, dan asam amino esensial yang diperlukan untuk pertumbuhan jaringan tubuh dan perkembangan otak janin."
+      "manfaat": "Mengkonsumsi alpukat bagi ibu hamil di trimester pertama memiliki manfaat memberikan asupan lemak sehat, vitamin K, folat, dan serat yang penting untuk kesehatan ibu dan perkembangan janin",
+      "trimester": 1
+    },
+    "ab8f-GLfhgqwDc6-": {
+      "id": "ab8f-GLfhgqwDc6-",
+      "nama": "Telur",
+      "image": "https://raw.githubusercontent.com/nabati17/capstone_Img/main/img/Telur.jpg",
+      "gizi": {
+        "kalori": 78,
+        "karbohidrat": 0.6,
+        "protein": 6.3,
+        "lemak": 5.3,
+        "serat": 0,
+        "vitamin": ["A", "B2", "B5", "B12", "D", "E", "K"]
       },
-      {
-        "nama": "Jeruk",
-        "image": "https://github.com/nabati17/capstone_Img/blob/main/img/jeruk.jpg?raw=true",
-        "gizi": {
-          "kalori": 43,
-          "karbohidrat": 11,
-          "protein": 0.9,
-          "lemak": 0.1,
-          "serat": 2.3,
-          "vitamin": ["A", "B1", "C"]
-        },
-        "manfaat": "Mengkonsumsi jeruk bagi ibu hamil pada trimester pertama sangat banyak manfaatnya karena jeruk kaya akan vitamin C, serat, dan antioksidan yang penting untuk sistem kekebalan tubuh dan perkembangan sel-sel janin."
+      "manfaat": "Mengkonsumsi telur bagi ibu hamil di trimester pertama memiliki manfaat memberikan Sumber protein tinggi, kolin, dan asam amino esensial yang diperlukan untuk pertumbuhan jaringan tubuh dan perkembangan otak janin.",
+      "trimester": 1
+    },
+    "Ymybac9QS5zcraKl": {
+      "id": "Ymybac9QS5zcraKl",
+      "nama": "Jeruk",
+      "image": "https://raw.githubusercontent.com/nabati17/capstone_Img/main/img/Jeruk.jpg",
+      "gizi": {
+        "kalori": 43,
+        "karbohidrat": 11,
+        "protein": 0.9,
+        "lemak": 0.1,
+        "serat": 2.3,
+        "vitamin": ["A", "B1", "C"]
       },
-      {
-        "nama": "Pisang",
-        "image": "https://github.com/nabati17/capstone_Img/blob/main/img/pisang.jpg?raw=true",
-        "gizi": {
-          "kalori": 96,
-          "karbohidrat": 25,
-          "protein": 1.2,
-          "lemak": 0.2,
-          "serat": 3.1,
-          "vitamin": ["A", "B6", "C"]
-        },
-        "manfaat": " Mengkonsumsi pisang bagi ibu hamil di trimester pertama memiliki manfaat memberikan sumber protein nabati, serat, asam folat, dan zat besi yang penting untuk pertumbuhan dan perkembangan janin serta menjaga kesehatan saluran pencernaan."
+      "manfaat": "Mengkonsumsi jeruk bagi ibu hamil pada trimester pertama sangat banyak manfaatnya karena jeruk kaya akan vitamin C, serat, dan antioksidan yang penting untuk sistem kekebalan tubuh dan perkembangan sel-sel janin.",
+      "trimester": 1
+    },
+    "mUCnZ5FKW6iXXd3C": {
+      "id": "mUCnZ5FKW6iXXd3C",
+      "nama": "Pisang",
+      "image": "https://raw.githubusercontent.com/nabati17/capstone_Img/main/img/Pisang.jpg",
+      "gizi": {
+        "kalori": 96,
+        "karbohidrat": 25,
+        "protein": 1.2,
+        "lemak": 0.2,
+        "serat": 3.1,
+        "vitamin": ["A", "B6", "C"]
       },
-      {
-        "nama": "Yogurt",
-        "image": "https://github.com/nabati17/capstone_Img/blob/main/img/Yogurt.jpg?raw=true",
-        "gizi": {
-          "kalori": 149,
-          "karbohidrat": 8.5,
-          "protein": 10,
-          "lemak": 8,
-          "serat": 0,
-          "vitamin": ["A", "B1", "B2", "B6", "B12", "C", "D"]
-        },
-        "manfaat": "Mengkonsumsi yogurt bagi ibu hamil di trimester pertama dapat memberikan nutrisi penting seperti kalsium, protein, dan probiotik yang mendukung perkembangan janin dan kesehatan pencernaan ibu"
-      }
-    ]
+      "manfaat": " Mengkonsumsi pisang bagi ibu hamil di trimester pertama memiliki manfaat memberikan sumber protein nabati, serat, asam folat, dan zat besi yang penting untuk pertumbuhan dan perkembangan janin serta menjaga kesehatan saluran pencernaan.",
+      "trimester": 1
+    },
+    "VCrd22XSJF5XfQp4": {
+      "id": "VCrd22XSJF5XfQp4",
+      "nama": "Yogurt",
+      "image": "https://raw.githubusercontent.com/nabati17/capstone_Img/main/img/Yogurt.jpg",
+      "gizi": {
+        "kalori": 149,
+        "karbohidrat": 8.5,
+        "protein": 10,
+        "lemak": 8,
+        "serat": 0,
+        "vitamin": ["A", "B1", "B2", "B6", "B12", "C", "D"]
+      },
+      "manfaat": "Mengkonsumsi yogurt bagi ibu hamil di trimester pertama dapat memberikan nutrisi penting seperti kalsium, protein, dan probiotik yang mendukung perkembangan janin dan kesehatan pencernaan ibu",
+      "trimester": 1
+    },
+    "74I4mMJJIp___Fcv": {
+      "id": "74I4mMJJIp___Fcv",
+      "nama": "Salmon",
+      "image": "https://raw.githubusercontent.com/nabati17/capstone_Img/main/img/Salmon.jpg",
+      "gizi": {
+        "kalori": 206,
+        "karbohidrat": 0,
+        "protein": 22,
+        "lemak": 13,
+        "serat": 0,
+        "vitamin": ["A", "C", "B6", "B12"]
+      },
+      "manfaat": "Mengkonsumsi salmon bagi ibu hamil di trimester kedua dapat memberikan nutrisi penting seperti asam lemak omega-3 dan protein yang mendukung perkembangan otak dan sistem saraf janin.",
+      "trimester": 2
+    },
+    "DhkrOg_UutOoLI9W": {
+      "id": "DhkrOg_UutOoLI9W",
+      "nama": "Brokoli",
+      "image": "https://raw.githubusercontent.com/nabati17/capstone_Img/main/img/Brokoli.jpg",
+      "gizi": {
+        "kalori": 55,
+        "karbohidrat": 11.2,
+        "protein": 4.2,
+        "lemak": 0.6,
+        "serat": 5.1,
+        "vitamin": ["A", "B", "C", "K"]
+      },
+      "manfaat": "Mengkonsumsi brokoli bagi ibu hamil di trimester kedua dapat memberikan sumber vitamin C, asam folat, kalsium, dan serat yang membantu dalam pembentukan jaringan tubuh, kesehatan tulang dan menjaga kesehatan sistem pencernaan.",
+      "trimester": 2
+    },
+    "2eDG2HzJnvjNfnS2": {
+      "id": "2eDG2HzJnvjNfnS2",
+      "nama": "Kacang almond",
+      "image": "https://raw.githubusercontent.com/nabati17/capstone_Img/main/img/Kacang_Almond.jpg",
+      "gizi": {
+        "kalori": 164,
+        "karbohidrat": 6,
+        "protein": 6,
+        "lemak": 14,
+        "serat": 3.5,
+        "vitamin": ["E", "B2"]
+      },
+      "manfaat": "Mengkonsumsi kacang almond selama trimester kedua kehamilan dapat memberikan nutrisi yang kaya akan vitamin E, asam lemak sehat, protein, dan serat yang baik untuk pertumbuhan janin, kesehatan otak, dan keseimbangan gula darah.",
+      "trimester": 2
+    },
+    "Ixw97cD9xLwrJuoN": {
+      "id": "Ixw97cD9xLwrJuoN",
+      "nama": "Jagung",
+      "image": "https://raw.githubusercontent.com/nabati17/capstone_Img/main/img/Jagung.jpg",
+      "gizi": {
+        "kalori": 86,
+        "karbohidrat": 19,
+        "protein": 3,
+        "lemak": 1,
+        "serat": 2,
+        "vitamin": ["A", "B1", "B9", "B12", "C", "E"]
+      },
+      "manfaat": "Mengkonsumsi jagung selama trimester kedua kehamilan dapat memberikan nutrisi penting seperti sumber karbohidrat kompleks, asam folat, serat, dan vitamin B kompleks yang mendukung pertumbuhan janin dan kesehatan ibu hamil",
+      "trimester": 2
+    },
+    "UQhaHokF8uh5EKAZ": {
+      "id": "UQhaHokF8uh5EKAZ",
+      "nama": "Quinoa",
+      "image": "https://raw.githubusercontent.com/nabati17/capstone_Img/main/img/Quinoa.jpg",
+      "gizi": {
+        "kalori": 120,
+        "karbohidrat": 21.3,
+        "protein": 4.4,
+        "lemak": 1.9,
+        "serat": 2.6,
+        "vitamin": ["A", "B", "E"]
+      },
+      "manfaat": "Mengkonsumsi Quinoa bagi ibu hamil di trimester kedua dapat memberikan asupan nutrisi yang kaya, termasuk protein, serat, dan zat besi yang baik untuk perkembangan otak janin dan menjaga kesehatan janin",
+      "trimester": 2
+    },
+    "AkAfhGkACmjKB1WZ": {
+      "id": "AkAfhGkACmjKB1WZ",
+      "nama": "Tahu",
+      "image": "https://raw.githubusercontent.com/nabati17/capstone_Img/main/img/Tahu.jpg",
+      "gizi": {
+        "kalori": 144,
+        "karbohidrat": 2.4,
+        "protein": 15.8,
+        "lemak": 8.2,
+        "serat": 0.6,
+        "vitamin": ["B1", "B2"]
+      },
+      "manfaat": "Mengkonsumsi tahu bagi ibu hamil di trimester kedua dapat memberikan asupan protein, nabati, kalsium, zat besi, dan asam lemak sehat yang baik untuk pertumbuhan dan perkembangan janin.",
+      "trimester": 2
+    },
+    "g6-Cc48aFYIYx4hB": {
+      "id": "g6-Cc48aFYIYx4hB",
+      "nama": "Labu",
+      "image": "https://raw.githubusercontent.com/nabati17/capstone_Img/main/img/Labu.jpg",
+      "gizi": {
+        "kalori": 26,
+        "karbohidrat": 6.5,
+        "protein": 0.5,
+        "lemak": 0.1,
+        "serat": 0.5,
+        "vitamin": ["A", "C", "E", "K"]
+      },
+      "manfaat": "Mengkonsumsi labu pada trimester ketiga kehamilan dapat memberikan nutrisi yang kaya akan beta-karoten, vitamin, serat, dan antioksidan yang penting untuk perkembangan sel-sel janin dan menjaga kesehatan sistem kekebalan tubuh.",
+      "trimester": 3
+    },
+    "eB0oTXOZiZeideNw": {
+      "id": "eB0oTXOZiZeideNw",
+      "nama": "Kedelai",
+      "image": "https://raw.githubusercontent.com/nabati17/capstone_Img/main/img/Kedelai.jpg",
+      "gizi": {
+        "kalori": 446,
+        "karbohidrat": 30.2,
+        "protein": 36.5,
+        "lemak": 19.9,
+        "serat": 9.3,
+        "vitamin": ["E", "K"]
+      },
+      "manfaat": "Mengkonsumsi kedelai bagi ibu hamil di trimester ketiga dapat memberikan nutrisi penting seperti sumber protein nabati, serat, zat besi, dan kalsium yang baik untuk pertumbuhan janin dan kesehatan tulang ibu hamil.",
+      "trimester": 3
+    },
+    "nHHVlGMJLWLpz1tE": {
+      "id": "nHHVlGMJLWLpz1tE",
+      "nama": "Kentang",
+      "image": "https://raw.githubusercontent.com/nabati17/capstone_Img/main/img/Kentang.jpg",
+      "gizi": {
+        "kalori": 86,
+        "karbohidrat": 20.1,
+        "protein": 1.6,
+        "lemak": 0.1,
+        "serat": 3,
+        "vitamin": {
+          "A": 192,
+          "C": 33,
+          "B6": 0.2
+        }
+      },
+      "manfaat": "Mengkonsumsi kentang bagi ibu hamil di trimester 3 dapat memberikan asupan serat,kaya akan vitamin, serat, dan karotenoid yang baik untuk perkembangan sistem imun janin dan menjaga kesehatan mata.",
+      "trimester": 3
+    },
+    "0lzjbmVZYUJupPzG": {
+      "id": "0lzjbmVZYUJupPzG",
+      "nama": "Ikan teri",
+      "image": "https://raw.githubusercontent.com/nabati17/capstone_Img/main/img/Ikan_Teri.jpg",
+      "gizi": {
+        "kalori": 206,
+        "karbohidrat": 0,
+        "protein": 22,
+        "lemak": 13,
+        "serat": 0,
+        "vitamin": ["A", "B2", "B12"]
+      },
+      "manfaat": "Mengkonsumsi ikan teri bagi ibu hamil di trimester 3 dapat memberikan nutrisi penting seperti asam lemak omega-3, protein, dan kalsium yang dapat mendukung perkembangan otak dan tulang janin",
+      "trimester": 3
+    },
+    "I8Ih-PHM7Z2EL1PF": {
+      "id": "I8Ih-PHM7Z2EL1PF",
+      "nama": "Keju",
+      "image": "https://raw.githubusercontent.com/nabati17/capstone_Img/main/img/Keju.jpg",
+      "gizi": {
+        "kalori": 98,
+        "karbohidrat": 3.4,
+        "protein": 11,
+        "lemak": 4.3,
+        "serat": 0,
+        "vitamin": ["A", "B12", "D", "K"]
+      },
+      "manfaat": "Mengkonsumsi keju saat trimester ketiga kehamilan dapat memberikan asupan kalsium dan protein yang penting untuk perkembangan tulang dan otot janin",
+      "trimester": 3
+    },
+    "TkPl7JuRXFtNenNB": {
+      "id": "TkPl7JuRXFtNenNB",
+      "nama": "Wortel",
+      "image": "https://raw.githubusercontent.com/nabati17/capstone_Img/main/img/Wortel.jpg",
+      "gizi": {
+        "kalori": 41,
+        "karbohidrat": 9.6,
+        "protein": 0.9,
+        "lemak": 0.2,
+        "serat": 2.8,
+        "vitamin": ["A", "B1", "B2", "B3", "B6", "B9", "E", "K"]
+      },
+      "manfaat": "Mengkonsumsi wortel pada trimester ketiga kehamilan dapat memberikan manfaat nutrisi seperti vitamin A, vitamin K, serat, dan antioksidan yang penting untuk perkembangan sel-sel janin dan menjaga kesehatan mata.",
+      "trimester": 3
+    },
+    "OjBRVks_qtzhDzBi": {
+      "id": "OjBRVks_qtzhDzBi",
+      "nama": "Buncis",
+      "image": "https://raw.githubusercontent.com/nabati17/capstone_Img/main/img/Buncis.jpg",
+      "gizi": {
+        "kalori": 31,
+        "karbohidrat": 7.1,
+        "protein": 1.8,
+        "lemak": 0.2,
+        "serat": 2.7,
+        "vitamin": ["A", "B", "C", "K"]
+      },
+      "manfaat": "Mengkonsumsi buncis saat trimester ketiga kehamilan dapat memberikan manfaat sebagai sumber vitamin K, vitamin C, serat, dan zat besi yang baik untuk pembentukan sel darah merah dan perkembangan tulang janin.",
+      "trimester": 3
+    },
+    "p6emYJT0Sal7HoHv": {
+      "id": "p6emYJT0Sal7HoHv",
+      "nama": "Buah plum",
+      "image": "https://raw.githubusercontent.com/nabati17/capstone_Img/main/img/Plum.jpg",
+      "gizi": {
+        "kalori": 46,
+        "karbohidrat": 11.4,
+        "protein": 0.7,
+        "lemak": 0.3,
+        "serat": 1.4,
+        "vitamin": ["A", "B1", "B2", "B3", "B6", "C", "K"]
+      },
+      "manfaat": "Mengkonsumsi buah plum pada trimester ketiga kehamilan dapat memberikan nutrisi yang kaya akan serat, vitamin C, vitamin K, dan antioksidan yang penting untuk sistem pencernaan, pertumbuhan sel janin, dan menjaga kesehatan kulit.",
+      "trimester": 3
+    }
   },
-  "trimester_2": {
-    "makanan": [
-      {
-        "nama": "Salmon",
-        "image": "https://github.com/nabati17/capstone_Img/blob/main/img/salmon.jpg?raw=true",
-        "gizi": {
-          "kalori": 206,
-          "karbohidrat": 0,
-          "protein": 22,
-          "lemak": 13,
-          "serat": 0,
-          "vitamin": ["A", "C", "B6", "B12"]
-        },
-        "manfaat": "Mengkonsumsi salmon bagi ibu hamil di trimester kedua dapat memberikan nutrisi penting seperti asam lemak omega-3 dan protein yang mendukung perkembangan otak dan sistem saraf janin."
-      },
-      {
-        "nama": "Brokoli",
-        "image": "https://github.com/nabati17/capstone_Img/blob/main/img/broccoli.jpg?raw=true",
-        "gizi": {
-          "kalori": 55,
-          "karbohidrat": 11.2,
-          "protein": 4.2,
-          "lemak": 0.6,
-          "serat": 5.1,
-          "vitamin": ["A", "B", "C", "K"]
-        },
-        "manfaat": "Mengkonsumsi brokoli bagi ibu hamil di trimester kedua dapat memberikan sumber vitamin C, asam folat, kalsium, dan serat yang membantu dalam pembentukan jaringan tubuh, kesehatan tulang dan menjaga kesehatan sistem pencernaan."
-      },
-      {
-        "nama": "Kacang almond",
-        "image": "https://github.com/nabati17/capstone_Img/blob/main/img/Kacang-Almon.jpg?raw=true",
-        "gizi": {
-          "kalori": 164,
-          "karbohidrat": 6,
-          "protein": 6,
-          "lemak": 14,
-          "serat": 3.5,
-          "vitamin": ["E", "B2"]
-        },
-        "manfaat": "Mengkonsumsi kacang almond selama trimester kedua kehamilan dapat memberikan nutrisi yang kaya akan vitamin E, asam lemak sehat, protein, dan serat yang baik untuk pertumbuhan janin, kesehatan otak, dan keseimbangan gula darah."
-      },
-      {
-        "nama": "Jagung",
-        "image": "https://github.com/nabati17/capstone_Img/blob/main/img/jagung.jpg?raw=true",
-        "gizi": {
-          "kalori": 86,
-          "karbohidrat": 19,
-          "protein": 3,
-          "lemak": 1,
-          "serat": 2,
-          "vitamin": ["A", "B1", "B9", "B12", "C", "E"]
-        },
-        "manfaat": "Mengkonsumsi jagung selama trimester kedua kehamilan dapat memberikan nutrisi penting seperti sumber karbohidrat kompleks, asam folat, serat, dan vitamin B kompleks yang mendukung pertumbuhan janin dan kesehatan ibu hamil"
-      },
-
-      {
-        "nama": "Quinoa",
-        "image": "https://github.com/nabati17/capstone_Img/blob/main/img/Quinoa.jpg?raw=true",
-        "gizi": {
-          "kalori": 120,
-          "karbohidrat": 21.3,
-          "protein": 4.4,
-          "lemak": 1.9,
-          "serat": 2.6,
-          "vitamin": ["A", "B", "E"]
-        },
-        "manfaat": "Mengkonsumsi Quinoa bagi ibu hamil di trimester kedua dapat memberikan asupan nutrisi yang kaya, termasuk protein, serat, dan zat besi yang baik untuk perkembangan otak janin dan menjaga kesehatan janin"
-      },
-      {
-        "nama": "Tahu",
-        "image": "https://github.com/nabati17/capstone_Img/blob/main/img/tahu.jpg?raw=true",
-        "gizi": {
-          "kalori": 144,
-          "karbohidrat": 2.4,
-          "protein": 15.8,
-          "lemak": 8.2,
-          "serat": 0.6,
-          "vitamin": ["B1", "B2"]
-        },
-        "manfaat": "Mengkonsumsi tahu bagi ibu hamil di trimester kedua dapat memberikan asupan protein, nabati, kalsium, zat besi, dan asam lemak sehat yang baik untuk pertumbuhan dan perkembangan janin."
-      }
-    ]
-  },
-  "trimester_3": {
-    "makanan": [
-      {
-        "nama": "Labu",
-        "image": "https://github.com/nabati17/capstone_Img/blob/main/img/labu.jpg?raw=true",
-        "gizi": {
-          "kalori": 26,
-          "karbohidrat": 6.5,
-          "protein": 0.5,
-          "lemak": 0.1,
-          "serat": 0.5,
-          "vitamin": ["A", "C", "E", "K"]
-        },
-        "manfaat": "Mengkonsumsi labu pada trimester ketiga kehamilan dapat memberikan nutrisi yang kaya akan beta-karoten, vitamin, serat, dan antioksidan yang penting untuk perkembangan sel-sel janin dan menjaga kesehatan sistem kekebalan tubuh."
-      },
-      {
-        "nama": "Kedelai",
-        "image": "https://github.com/nabati17/capstone_Img/blob/main/img/kedelai.jpg?raw=true",
-        "gizi": {
-          "kalori": 446,
-          "karbohidrat": 30.2,
-          "protein": 36.5,
-          "lemak": 19.9,
-          "serat": 9.3,
-          "vitamin": ["E", "K"]
-        },
-        "manfaat": "Mengkonsumsi kedelai bagi ibu hamil di trimester ketiga dapat memberikan nutrisi penting seperti sumber protein nabati, serat, zat besi, dan kalsium yang baik untuk pertumbuhan janin dan kesehatan tulang ibu hamil."
-      },
-
-      {
-        "nama": "Kentang",
-        "image": "https://github.com/nabati17/capstone_Img/blob/main/img/kentang.jpg?raw=true",
-        "gizi": {
-          "kalori": 86,
-          "karbohidrat": 20.1,
-          "protein": 1.6,
-          "lemak": 0.1,
-          "serat": 3,
-          "vitamin": {
-            "A": 192,
-            "C": 33,
-            "B6": 0.2
-          }
-        },
-        "manfaat": "Mengkonsumsi kentang bagi ibu hamil di trimester 3 dapat memberikan asupan serat,kaya akan vitamin, serat, dan karotenoid yang baik untuk perkembangan sistem imun janin dan menjaga kesehatan mata."
-      },
-      {
-        "nama": "Ikan teri",
-        "image": "https://github.com/nabati17/capstone_Img/blob/main/img/ikan%20teri.jpg?raw=true",
-        "gizi": {
-          "kalori": 206,
-          "karbohidrat": 0,
-          "protein": 22,
-          "lemak": 13,
-          "serat": 0,
-          "vitamin": ["A", "B2", "B12"]
-        },
-        "manfaat": "Mengkonsumsi ikan teri bagi ibu hamil di trimester 3 dapat memberikan nutrisi penting seperti asam lemak omega-3, protein, dan kalsium yang dapat mendukung perkembangan otak dan tulang janin"
-      },
-      {
-        "nama": "Keju",
-        "image": "https://github.com/nabati17/capstone_Img/blob/main/img/keju.jpg?raw=true",
-        "gizi": {
-          "kalori": 98,
-          "karbohidrat": 3.4,
-          "protein": 11,
-          "lemak": 4.3,
-          "serat": 0,
-          "vitamin": ["A", "B12", "D", "K"]
-        },
-        "manfaat": "Mengkonsumsi keju saat trimester ketiga kehamilan dapat memberikan asupan kalsium dan protein yang penting untuk perkembangan tulang dan otot janin"
-      },
-      {
-        "nama": "Wortel",
-        "image": "https://github.com/nabati17/capstone_Img/blob/main/img/wortel.jpg?raw=true",
-        "gizi": {
-          "kalori": 41,
-          "karbohidrat": 9.6,
-          "protein": 0.9,
-          "lemak": 0.2,
-          "serat": 2.8,
-          "vitamin": ["A", "B1", "B2", "B3", "B6", "B9", "E", "K"]
-        },
-        "manfaat": "Mengkonsumsi wortel pada trimester ketiga kehamilan dapat memberikan manfaat nutrisi seperti vitamin A, vitamin K, serat, dan antioksidan yang penting untuk perkembangan sel-sel janin dan menjaga kesehatan mata."
-      },
-      {
-        "nama": "Buncis",
-        "image": "https://github.com/nabati17/capstone_Img/blob/main/img/buncis.jpg?raw=true",
-        "gizi": {
-          "kalori": 31,
-          "karbohidrat": 7.1,
-          "protein": 1.8,
-          "lemak": 0.2,
-          "serat": 2.7,
-          "vitamin": ["A", "B", "C", "K"]
-        },
-        "manfaat": "Mengkonsumsi buncis saat trimester ketiga kehamilan dapat memberikan manfaat sebagai sumber vitamin K, vitamin C, serat, dan zat besi yang baik untuk pembentukan sel darah merah dan perkembangan tulang janin."
-      },
-      {
-        "nama": "Buah plum",
-        "image": "https://github.com/nabati17/capstone_Img/blob/main/img/buah_plum.jpg?raw=true",
-        "gizi": {
-          "kalori": 46,
-          "karbohidrat": 11.4,
-          "protein": 0.7,
-          "lemak": 0.3,
-          "serat": 1.4,
-          "vitamin": ["A", "B1", "B2", "B3", "B6", "C", "K"]
-        },
-        "manfaat": "Mengkonsumsi buah plum pada trimester ketiga kehamilan dapat memberikan nutrisi yang kaya akan serat, vitamin C, vitamin K, dan antioksidan yang penting untuk sistem pencernaan, pertumbuhan sel janin, dan menjaga kesehatan kulit."
-      }
-    ]
-  },
-  "minuman": [
-    {
-      "nama": "air_mineral",
-      "image": "https://github.com/nabati17/capstone_Img/blob/main/img/Airmineral.jpg?raw=true",
+  "minuman": {
+    "ouMC3zPcM4tR7OJY": {
+      "id": "ouMC3zPcM4tR7OJY",
+      "nama": "air mineral",
+      "image": "https://raw.githubusercontent.com/nabati17/capstone_Img/main/img/Air_Mineral.jpg",
       "gizi": {
         "kalori": "0 kkal",
         "karbohidrat": "0 g",
@@ -289,11 +318,12 @@
         "serat": null,
         "vitamin": []
       },
-      "manfaat_ibu_hamil": "Membantu menjaga keseimbangan cairan tubuh dan memenuhi kebutuhan hidrasi selama kehamilan."
+      "manfaat": "Membantu menjaga keseimbangan cairan tubuh dan memenuhi kebutuhan hidrasi selama kehamilan."
     },
-    {
+    "h3piMITz3LtfzkWs": {
+      "id": "h3piMITz3LtfzkWs",
       "nama": "susu",
-      "image": "https://github.com/nabati17/capstone_Img/blob/main/img/susu.jpg?raw=true",
+      "image": "https://raw.githubusercontent.com/nabati17/capstone_Img/main/img/Susu.jpg",
       "gizi": {
         "kalori": "60 kkal",
         "karbohidrat": "4 g",
@@ -302,11 +332,12 @@
         "serat": null,
         "vitamin": ["A", "B2", "B12", "D"]
       },
-      "manfaat_ibu_hamil": "Sumber kalsium yang baik untuk perkembangan tulang dan gigi janin, serta sumber protein penting untuk pertumbuhan dan perkembangan janin."
+      "manfaat": "Sumber kalsium yang baik untuk perkembangan tulang dan gigi janin, serta sumber protein penting untuk pertumbuhan dan perkembangan janin."
     },
-    {
-      "nama": "air_kelapa",
-      "image": "https://github.com/nabati17/capstone_Img/blob/main/img/Air%20Kelapa.jpg?raw=true",
+    "kJABPgc61ffb8Uoa": {
+      "id": "kJABPgc61ffb8Uoa",
+      "nama": "air kelapa",
+      "image": "https://raw.githubusercontent.com/nabati17/capstone_Img/main/img/Air_Kelapa.jpg",
       "gizi": {
         "kalori": "45 kkal",
         "karbohidrat": "9 g",
@@ -315,11 +346,12 @@
         "serat": null,
         "vitamin": ["C"]
       },
-      "manfaat_ibu_hamil": "Memberikan hidrasi yang baik, mengandung elektrolit alami, dan membantu mengatasi kelelahan selama kehamilan."
+      "manfaat": "Memberikan hidrasi yang baik, mengandung elektrolit alami, dan membantu mengatasi kelelahan selama kehamilan."
     },
-    {
-      "nama": "jus_buah",
-      "image": "https://github.com/nabati17/capstone_Img/blob/main/img/Jus%20Buah.jpg?raw=true",
+    "GewZ2ZyAix90P31r": {
+      "id": "GewZ2ZyAix90P31r",
+      "nama": "jus buah",
+      "image": "https://raw.githubusercontent.com/nabati17/capstone_Img/main/img/Jus_Buah.jpg",
       "gizi": {
         "kalori": "Varies",
         "karbohidrat": "Varies",
@@ -328,11 +360,12 @@
         "serat": null,
         "vitamin": ["Varies"]
       },
-      "manfaat_ibu_hamil": "Menyediakan sumber vitamin dan mineral penting, serta serat, yang diperlukan selama kehamilan untuk kesehatan ibu dan perkembangan janin."
+      "manfaat": "Menyediakan sumber vitamin dan mineral penting, serta serat, yang diperlukan selama kehamilan untuk kesehatan ibu dan perkembangan janin."
     },
-    {
-      "nama": "jus_sayuran",
-      "image": "https://github.com/nabati17/capstone_Img/blob/main/img/Jus%20Sayuran.jpg?raw=true",
+    "Oy3HTlGNwd4PtvBK": {
+      "id": "Oy3HTlGNwd4PtvBK",
+      "nama": "jus sayuran",
+      "image": "https://raw.githubusercontent.com/nabati17/capstone_Img/main/img/Jus_Sayuran.jpg",
       "gizi": {
         "kalori": "Varies",
         "karbohidrat": "Varies",
@@ -341,34 +374,83 @@
         "serat": null,
         "vitamin": ["varies"]
       },
-      "manfaat_ibu_hamil": "Mengandung nutrisi penting dari sayuran yang dapat mendukung kesehatan ibu hamil dan perkembangan janin, serta membantu menjaga kestabilan sistem pencernaan."
+      "manfaat": "Mengandung nutrisi penting dari sayuran yang dapat mendukung kesehatan ibu hamil dan perkembangan janin, serta membantu menjaga kestabilan sistem pencernaan."
     }
-  ],
-  "suplement": [
-    {
+  },
+  "suplement": {
+    "a20LcEGN84DdsOKf": {
+      "id": "a20LcEGN84DdsOKf",
       "nama": "Blackmores Pregnancy & Breast-Feeding Gold",
-      "image": "https://github.com/nabati17/capstone_Img/blob/main/imgsuplement/Blackmores%20Pregnancy%20&%20Breast-Feeding%20Gold.jpg?raw=true",
+      "image": "https://raw.githubusercontent.com/nabati17/capstone_Img/main/img/Blackmores.jpg",
       "manfaat": "Sebagai pemenuhan nutrisi selama kehamilan dan menyusui, serta menjaga kualitas ASI. Kandungan DHA dan kalsium yang cukup tinggi di dalam suplemen ini dapat meningkatkan perkembangan otak dan mata pada janin dan baik untuk menjaga kesehatan tulang ibu serta pertumbuhan tulang dan gigi janin."
     },
-    {
+    "l6h7VdMGi6qXQXcG": {
+      "id": "l6h7VdMGi6qXQXcG",
       "nama": "Folamil Genio",
-      "image": "https://github.com/nabati17/capstone_Img/blob/main/imgsuplement/FG.jpg?raw=true",
+      "image": "https://raw.githubusercontent.com/nabati17/capstone_Img/main/img/Folamil.jpg",
       "manfaat": "Bermanfaat untuk membantu mencegah serta mengatasi kekurangan vitamin dan mineral pada ibu hamil dan menyusui. Salah satu kandungan Folamil Genio adalah asam folat yang bermanfaat dalam mendukung proses tumbuh kembang janin dalam kandungan."
     },
-    {
+    "8wdOn5LywE47tk1_": {
+      "id": "8wdOn5LywE47tk1_",
       "nama": "Natures Plus Prenatal",
-      "image": "https://github.com/nabati17/capstone_Img/blob/main/imgsuplement/npp.jpg?raw=true",
+      "image": "https://raw.githubusercontent.com/nabati17/capstone_Img/main/img/Natures_Plus.jpg",
       "manfaat": "Bermanfaat untuk membantu memenuhi kebutuhan vitamin dan mineral selama masa kehamilan, membantu memelihara kesehatan tulang ibu hamil, membantu meningkatkan aliran darah, mempertahankan kelenjar tiroid agar bekerja dengan baik dalam menghasilkan hormon pertumbuhan, membentuk sel darah merah dan anti mual, membantu pembentuk protein dan sel dan menguatkan daya tahan tubuh."
     },
-    {
+    "My2WzCDAIqm2kJXJ": {
+      "id": "My2WzCDAIqm2kJXJ",
       "nama": "Osfit Platinum",
-      "image": "https://github.com/nabati17/capstone_Img/blob/main/imgsuplement/Osfit.png?raw=true",
+      "image": "https://raw.githubusercontent.com/nabati17/capstone_Img/main/img/Osfit.jpg",
       "manfaat": "Bermanfaat  untuk membantu memelihara kesehatan ibu hamil dan atau menyusui serta perkembangan janin. Produk ini mengandung Vitamin A yang berperan dalam perkembangan penglihatan dan sistem imun."
     },
-    {
+    "8ayPuk-6ZjrnDx3N": {
+      "id": "8ayPuk-6ZjrnDx3N",
       "nama": " Nutrimax Mother",
-      "image": "https://github.com/nabati17/capstone_Img/blob/main/imgsuplement/NM.jpg?raw=true",
+      "image": "https://raw.githubusercontent.com/nabati17/capstone_Img/main/img/Nutrimax.jpg",
       "manfaat": " untuk membantu memenuhi kebutuhan gizi untuk ibu pada masa kehamilan dan menyusui, membantu meningatkan perkembangan fisik dan mental pada janin, mengurangi gangguan selama hamil (keram, mual, muntah), meningkatkan kualitas dan kuantitas ASI."
+    }
+  },
+  "ip": [
+    {
+      "admin": "182.253.162.94"
+    },
+    {
+      "admin": "182.253.162.70"
+    },
+    {
+      "admin": "182.253.162.50"
+    },
+    {
+      "admin": "139.228.88.47"
+    }
+  ],
+  "FAQ": [
+    {
+      "question": "Berapa berat badan yang ideal untuk saya selama kehamilan?",
+      "answer": "Berat badan yang ideal selama kehamilan dapat bervariasi tergantung pada indeks massa tubuh (IMT) sebelum kehamilan. Dokter kandungan akan menentukan berat badan yang sehat berdasarkan situasi individu. Secara umum, penambahan berat badan yang direkomendasikan selama kehamilan adalah sekitar 11-16 kg untuk wanita dengan IMT normal."
+    },
+    {
+      "question": "Apakah saya perlu mengubah pola makan saya?",
+      "answer": "Pola makan yang sehat dan seimbang sangat penting selama kehamilan. Anda perlu mengonsumsi makanan bergizi yang mencakup protein, karbohidrat kompleks, lemak sehat, serta vitamin dan mineral penting. Dokter kandungan dapat memberikan saran khusus terkait kebutuhan gizi dan mungkin merekomendasikan suplemen vitamin atau mineral tambahan."
+    },
+    {
+      "question": "Apakah aman untuk melakukan olahraga selama kehamilan?",
+      "answer": "Dalam banyak kasus, olahraga ringan atau aktivitas fisik yang teratur dianjurkan selama kehamilan, kecuali jika ada kontraindikasi medis. Aktivitas seperti berjalan, berenang, atau yoga prenatal dapat memberikan manfaat kesehatan fisik dan mental. Namun, penting untuk berkonsultasi dengan dokter kandungan untuk mendapatkan rekomendasi yang tepat berdasarkan kondisi kesehatan individu."
+    },
+    {
+      "question": "Bagaimana cara mengatasi mual dan muntah selama kehamilan (morning sickness)?",
+      "answer": "Mual dan muntah adalah gejala umum yang dialami selama kehamilan. Dokter kandungan dapat memberikan saran tentang cara mengurangi gejala tersebut, seperti makan makanan kecil tapi sering, menghindari makanan berbau atau beraroma kuat, atau mencoba teknik relaksasi seperti akupresur atau pijatan ringan."
+    },
+    {
+      "question": "Apa yang perlu saya lakukan jika saya mengalami kejang otot atau kram kaki selama kehamilan?",
+      "answer": "Kejang otot atau kram kaki sering terjadi selama kehamilan. Untuk meredakan gejalanya, cobalah meregangkan otot yang kram dengan perlahan, menggunakan pijatan lembut, atau mengompres otot dengan handuk hangat. Dokter kandungan juga dapat merekomendasikan suplemen tambahan seperti magnesium jika diperlukan."
+    },
+    {
+      "question": "Apakah aman untuk bepergian atau naik pesawat selama kehamilan?",
+      "answer": "Bepergian atau naik pesawat dalam kehamilan dapat aman, tetapi penting untuk berkonsultasi dengan dokter kandungan terlebih dahulu, terutama jika kehamilan Anda memiliki risiko tinggi atau mendekati tanggal perkiraan kelahiran. Dokter akan memberikan saran khusus terkait perjalanan yang aman dan nyaman bagi Anda dan bayi."
+    },
+    {
+      "question": "Kapan saya perlu memulai persiapan untuk persalinan?",
+      "answer": "Persiapan untuk persalinan sebaiknya dimulai sejak awal kehamilan. Ini termasuk menghadiri kelas persiapan kehamilan, mempelajari teknik pernapasan dan relaksasi, serta membuat rencana kelahiran. Dokter kandungan akan memberikan panduan lebih lanjut tentang persiapan dan memastikan bahwa Anda siap secara fisik dan mental."
     }
   ]
 }
